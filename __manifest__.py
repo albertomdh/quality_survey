@@ -2,13 +2,13 @@
 {
     'name': "Quality Survey",
 
-    'summary': """This module adds a quality survey value to sale orders.""",
+    'summary': """This module adds a quality survey value to customers.""",
 
-    'description': """This module adds a quality survey value to sale orders.    
+    'description': """This module adds a quality survey value to customers.    
     """,
 
-    'author': "Ehio Technologies",
-    'website': "https://www.ehiotech.com",
+    'author': "Helium",
+    'website': "https://www.helium.mx",
 
     'category': 'Sales',
     'version': '0.1',
